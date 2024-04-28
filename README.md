@@ -17,3 +17,29 @@
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" align="left" />
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<h3>🌎 Bio</h3>
+
+```javascript
+class Renkie {
+  skills = ["Networking", "Algorithm", "Databases", "REST APIs", "Programming", "Scripting"];
+  get Sedang Belajar() {
+    return "Java And AI language";
+  }
+  constructor(Gender) {
+    this.Gender = Gender;
+  }
+}
+let me = new Renkie("Laki- Laki");
+``` 
+
+TabawaX@github
+┌────────────────────────────────────┐
+│ OS        ~  Tabawa Renkie         │
+│ Host      ~  Jawa Timur, Indonesja         │
+│ Uptime    ~  18 years              │
+│                                    │
+│ Kernel    ~  Muhammadiyah │
+│ Shell     ~  Agama & Informatika │
+│ Packages  ~  10/120 knowledge     │
+└────────────────────────────────────┘
