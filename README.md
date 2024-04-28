@@ -33,6 +33,7 @@ class Renkie {
 let me = new Renkie("Laki- Laki");
 ``` 
 
+```
 TabawaX@github
 ┌────────────────────────────────────┐
 │ OS        ~  Tabawa Renkie         │
@@ -43,3 +44,4 @@ TabawaX@github
 │ Shell     ~  Agama & Informatika │
 │ Packages  ~  10/120 knowledge     │
 └────────────────────────────────────┘
+```
