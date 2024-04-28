@@ -41,6 +41,11 @@ let me = new Renkie("Laki- Laki");
 │ Packages  ~  10/120 knowledge     
 └────────────────────────────────────┘
 ```
+
 <p align="center">
-  <img src="https://img.shields.io/badge/YourBadgeName-YourBadgeColor?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YourBadgeName1-YourBadgeColor1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YourBadgeName2-YourBadgeColor2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YourBadgeName3-YourBadgeColor3?style=for-the-badge" />
 </p>
+
+
