@@ -3,6 +3,13 @@
 <h1 align="center">Hello, I'm Renki! 👋</h1>
 <h3 align="center">𝗔𝗜 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 💡</h3>
 
+<div>
+  <a href="https://github.com/TabawaX">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabawaX&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TabawaX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 <p align="center">
   <img align="center" alt="GitHub Profile Views" src="https://count.getloli.com/get/@:tabawaX?theme=rule34">
 </p>
