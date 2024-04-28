@@ -20,7 +20,7 @@
 ```javascript
 class Renkie {
   skills = ["Networking", "Algorithm", "Databases", "REST APIs", "Programming", "Scripting"];
-  get Sedang Belajar() {
+  get Sedang_Belajar() {
     return "Java And AI language";
   }
   constructor(Gender) {
