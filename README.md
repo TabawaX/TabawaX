@@ -3,4 +3,5 @@
 <h3 align="center">AI Enthusiasm</hh
 <p align="center">
   <img align="center" alt="GitHub Profile Views" src="https://count.getloli.com/get/@:tabawaX?theme=rule34">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
