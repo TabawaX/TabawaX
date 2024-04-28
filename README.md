@@ -43,9 +43,9 @@ let me = new Renkie("Laki- Laki");
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YourBadgeName1-YourBadgeColor1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YourBadgeName2-YourBadgeColor2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YourBadgeName3-YourBadgeColor3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 
